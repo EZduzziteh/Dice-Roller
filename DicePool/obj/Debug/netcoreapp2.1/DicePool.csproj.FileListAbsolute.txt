@@ -1,0 +1,17 @@
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_10_11\DicePool_Template\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_10_11\DicePool_Template\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_10_11\DicePool_Template\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.AssemblyInfoInputs.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_10_11\DicePool_Template\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\DicePool\DicePool\bin\Debug\netcoreapp2.1\DicePool.deps.json
+C:\Users\Sasha\Desktop\DicePool\DicePool\bin\Debug\netcoreapp2.1\DicePool.runtimeconfig.json
+C:\Users\Sasha\Desktop\DicePool\DicePool\bin\Debug\netcoreapp2.1\DicePool.runtimeconfig.dev.json
+C:\Users\Sasha\Desktop\DicePool\DicePool\bin\Debug\netcoreapp2.1\DicePool.dll
+C:\Users\Sasha\Desktop\DicePool\DicePool\bin\Debug\netcoreapp2.1\DicePool.pdb
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.dll
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.pdb
+C:\Users\Sasha\Desktop\DicePool\DicePool\obj\Debug\netcoreapp2.1\DicePool.genruntimeconfig.cache
